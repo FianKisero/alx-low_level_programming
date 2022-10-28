@@ -3,12 +3,14 @@
 /**
  * reverse_array - reverses the contents of an array of integers
  * @a: array of integers
- *  @n: number of elements
+ * @n: number of elements
+ * Return: returns 0.
  */
 
 void reverse_array(int *a, int n)
 {
 	int tmp, index;
+
 	for (index = n - 1; index > n / 2; index--)
 	{
 		tmp = a[n - 1 - index];
