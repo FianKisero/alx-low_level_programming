@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * _memset - function fills the first n bytes of the memory area pointed to by s with the constant byte b
+ * _memset - function fills the first n bytes of the memory area
+ * pointed to by s with the constant byte b
  * @s:target
  * @b:constant byte
  * Return: returns new value of target
