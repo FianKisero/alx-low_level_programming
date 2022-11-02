@@ -4,6 +4,7 @@
  * pointed to by s with the constant byte b
  * @s:target
  * @b:constant byte
+ * @n: n bytes of memory
  * Return: returns new value of target
  */
 
