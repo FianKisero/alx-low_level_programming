@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * factorial - finds factorial
- * @n: int
- * Return: int
+ * factorial - searchs for the factorial of a number
+ * @n: the number to find the factorial of
+ * Return: the factorial of the number
  */
 
 int factorial(int n)
