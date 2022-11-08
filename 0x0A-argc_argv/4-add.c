@@ -4,7 +4,7 @@
  * main - adds positive numbers
  * @argc: number of arguments
  * @argv: array of arguments
- * Return: 0 on success, 1 on failure
+ * Return: 0 
  */
 
 int main(int argc, char *argv[])
