@@ -24,7 +24,7 @@ int find_len(char *str)
 
 /**
  * create_xarray - Creates an array of chars and initializes it with
- *                the character 'x'. Adds a terminating null byte.
+ *                 the character 'x'. Adds a terminating null byte.
  * @size: The size of the array to be initialized.
  *
  * Description: If there is insufficient space, the
@@ -48,6 +48,7 @@ char *create_xarray(int size)
 
 	return (array);
 }
+
 /**
  * iterate_zeroes - Iterates through a string of numbers containing
  *                  leading zeroes until it hits a non-zero number.
